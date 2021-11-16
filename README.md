@@ -2,7 +2,10 @@
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
 # installation
-I  opened my VirtualBoxthen go new then I created a new virtual machine name:kali then click next I created memory size RAM then nextcreate your hard disc then nextcreate
+I  opened my VirtualBoxthen go new then I created a new virtual machine 
+name:kali then click 
+next I created memory size RAM then 
+next create your hard disc then create
 <img width="582" alt="p1" src="https://user-images.githubusercontent.com/90642756/141928563-cca9a8e6-c7a7-4d3f-a88c-c818e597ef3c.PNG">
 <img width="567" alt="p2" src="https://user-images.githubusercontent.com/90642756/141928564-ac14245f-9a34-4d8b-8da7-e94440758ee4.PNG">
 <img width="566" alt="p3" src="https://user-images.githubusercontent.com/90642756/141928566-62f55d22-2d78-4a02-a4c4-55259b8f4b5d.PNG">
