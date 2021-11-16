@@ -57,6 +57,7 @@ Next, select the scheme for partitioning. If you are a new user, go for All file
 
 The wizard gives you an overview of the configured partitions. Continue by navigating to Finish partitioning and write changes to disk. 
 Click Continue and confirm with Yes.
+
 <img width="544" alt="p13" src="https://user-images.githubusercontent.com/90642756/141928578-ca41a1ee-0a10-4d0f-9bc9-ff6d181780b3.PNG">
 
 '''Configure the package manager. Select whether you want to use a network mirror and click Continue.
