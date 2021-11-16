@@ -47,23 +47,28 @@ Finally, navigate to Storage settings. Add the downloaded Kali image to a storag
 <img width="543" alt="p9" src="https://user-images.githubusercontent.com/90642756/141928573-2b4f44c7-4cbb-407a-b615-9dc9d76fce38.PNG">
 
 --->>>Next,  domain name if you don’t have domain name click continue.
+
 --->>>Set up users and passwords. Create a strong password for the system administrator account.
 
 <img width="540" alt="p10" src="https://user-images.githubusercontent.com/90642756/141928574-f6b227d7-aecc-496a-8c16-3661993bd076.PNG">
 
 --->>>Configure the clock. Select your time zone from the available options. Choice and then continue.
+
 --->>>Partition disks. Select how you would like to partition the hard disk.
 
 <img width="542" alt="p11" src="https://user-images.githubusercontent.com/90642756/141928575-dc8e9ba1-2e7f-455a-8dd7-255532acc64c.PNG">
 
---->>>Then, select which disk you want to use for partitioning. As you created a single virtual hard disk before 
+--->>>Then, select which disk you want to use for partitioning. As you created a single virtual hard disk before.
+
 --->>>Next, select the scheme for partitioning. If you are a new user, go for All files in one partition.
 
 <img width="537" alt="p12" src="https://user-images.githubusercontent.com/90642756/141928577-12eeade1-53e2-4642-94c1-0f40820ff3b7.PNG">
 
 --->>>The wizard gives you an overview of the configured partitions. 
---->>>Continue by navigating to Finish partitioning and write changes to disk. 
-Click Continue and confirm with Yes.
+
+--->>>Continue by navigating to Finish partitioning and write changes to disk.
+
+--->>>Click Continue and confirm with Yes.
 
 <img width="544" alt="p13" src="https://user-images.githubusercontent.com/90642756/141928578-ca41a1ee-0a10-4d0f-9bc9-ff6d181780b3.PNG">
 
