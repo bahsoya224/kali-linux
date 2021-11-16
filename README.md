@@ -30,7 +30,7 @@ Finally, navigate to Storage settings. Add the downloaded Kali image to a storag
  
 <img width="547" alt="p5" src="https://user-images.githubusercontent.com/90642756/141928568-f6069667-91c4-4f89-aa17-76f8bc39456b.PNG">
 
---->>>Select a language. Choose the default language for the system (which will also be the language used during the installation process).
+--->>>Select a language. Choose the default language for the system .
 
 <img width="545" alt="p6" src="https://user-images.githubusercontent.com/90642756/141928569-2e68ad91-ff5e-4df5-8dc3-77fc33518268.PNG">
 
