@@ -16,22 +16,33 @@ Finally, navigate to Storage settings. Add the downloaded Kali image to a storag
 Than Click the Start icon to begin installing Kali.
 
 <img width="593" alt="p4" src="https://user-images.githubusercontent.com/90642756/141928567-55e09682-495a-472c-afce-effe12e2fa42.PNG">
+
 # Installing and Setting Up Kali Linux
 
-After you booted the installation menu by clicking Start, a new VM VirtualBox window appears with the Kali welcome screen.
+ After you booted the installation menu by clicking Start, a new VM VirtualBox window appears with the Kali welcome screen.
+ Select the Graphical install option and go through the following installation steps for setting up Kali Linux in VirtualBox.
+ 
 <img width="547" alt="p5" src="https://user-images.githubusercontent.com/90642756/141928568-f6069667-91c4-4f89-aa17-76f8bc39456b.PNG">
 
+Select a language. Choose the default language for the system (which will also be the language used during the installation process).
 
 <img width="545" alt="p6" src="https://user-images.githubusercontent.com/90642756/141928569-2e68ad91-ff5e-4df5-8dc3-77fc33518268.PNG">
 
+Select your location. Find and select your country from the list (or choose “other”).
 
 <img width="544" alt="p7" src="https://user-images.githubusercontent.com/90642756/141928570-e30606a5-45ef-46d0-8689-549e5964bf3d.PNG">
 
+Configure the keyboard. Decide which keymap to use. In most cases, the best option is to select American English.
 
 <img width="542" alt="p8" src="https://user-images.githubusercontent.com/90642756/141928571-92742e77-b5f2-47f1-8a44-20505b0a5f50.PNG">
 
+Configure the network. First, enter a hostname for the system and click Continue
 
 <img width="543" alt="p9" src="https://user-images.githubusercontent.com/90642756/141928573-2b4f44c7-4cbb-407a-b615-9dc9d76fce38.PNG">
+
+Next,  domain name if you don’t have domain name click continue.
+Set up users and passwords. Create a strong password for the system administrator account.
+
 <img width="540" alt="p10" src="https://user-images.githubusercontent.com/90642756/141928574-f6b227d7-aecc-496a-8c16-3661993bd076.PNG">
 <img width="542" alt="p11" src="https://user-images.githubusercontent.com/90642756/141928575-dc8e9ba1-2e7f-455a-8dd7-255532acc64c.PNG">
 <img width="537" alt="p12" src="https://user-images.githubusercontent.com/90642756/141928577-12eeade1-53e2-4642-94c1-0f40820ff3b7.PNG">
