@@ -1,17 +1,31 @@
 # KALI LINUX :
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+
+# REFERENCE  
+
+https://www.kali.org/docs/installation/hard-disk-install/
+
 # SYNOPSIS:
 Kali Linux is mainly used for advanced Penetration Testing and Security Auditing. Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
 What problem does the application solve?
 # USE CASES :
 ---->>
+
 ---->>
+
 ---->>
+
 # INSTALLATION :
+
 ## create kali linux in VM :
-I  opened my VirtualBox--->>>then go new--->>> then I created a new virtual machine 
+I  opened my VirtualBox
+
+--->>>then go new--->>> then I created a new virtual machine 
+
 --->>>name:kali then click 
+
 --->>>next I created memory size RAM then 
+
 --->>>next create your hard disc then create
 
 <img width="582" alt="p1" src="https://user-images.githubusercontent.com/90642756/141928563-cca9a8e6-c7a7-4d3f-a88c-c818e597ef3c.PNG">
