@@ -2,7 +2,6 @@
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
 # REFERENCE  
-
 https://www.kali.org/docs/installation/hard-disk-install/
 
 # SYNOPSIS:
@@ -20,7 +19,9 @@ What problem does the application solve?
 ## create kali linux in VM :
 I  opened my VirtualBox
 
---->>>then go new--->>> then I created a new virtual machine 
+--->>>then go new
+
+--->>> then I created a new virtual machine 
 
 --->>>name:kali then click 
 
@@ -32,7 +33,10 @@ I  opened my VirtualBox
 <img width="567" alt="p2" src="https://user-images.githubusercontent.com/90642756/141928564-ac14245f-9a34-4d8b-8da7-e94440758ee4.PNG">
 <img width="566" alt="p3" src="https://user-images.githubusercontent.com/90642756/141928566-62f55d22-2d78-4a02-a4c4-55259b8f4b5d.PNG">
 
-Finally, navigate to Storage settings. Add the downloaded Kali image to a storage device under Controller: IDE. Click the disk icon to search for the image. Once finished click on OK.
+Finally, navigate to Storage settings. Add the downloaded Kali image to a storage device under Controller: IDE. 
+
+--->>>Click the disk icon to search for the image. Once finished click on OK.
+
 --->>>Then Click the Start icon to begin installing Kali.
 
 <img width="593" alt="p4" src="https://user-images.githubusercontent.com/90642756/141928567-55e09682-495a-472c-afce-effe12e2fa42.PNG">
