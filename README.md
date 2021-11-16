@@ -55,10 +55,11 @@ Next, select the scheme for partitioning. If you are a new user, go for All file
 
 <img width="537" alt="p12" src="https://user-images.githubusercontent.com/90642756/141928577-12eeade1-53e2-4642-94c1-0f40820ff3b7.PNG">
 
-The wizard gives you an overview of the configured partitions. Continue by navigating to Finish partitioning and write changes to disk. Click Continue and confirm with Yes.
+The wizard gives you an overview of the configured partitions. Continue by navigating to Finish partitioning and write changes to disk. 
+Click Continue and confirm with Yes.
 <img width="544" alt="p13" src="https://user-images.githubusercontent.com/90642756/141928578-ca41a1ee-0a10-4d0f-9bc9-ff6d181780b3.PNG">
 
-Configure the package manager. Select whether you want to use a network mirror and click Continue.
+'''Configure the package manager. Select whether you want to use a network mirror and click Continue.
 Install the GRUB boot loader on a hard disk. Select Yes and Continue. Then, select a boot loader device to ensure the newly installed system is bootable.
-Once you receive the message Installation is complete, click Continue to reboot your VM.
+Once you receive the message Installation is complete, click Continue to reboot your VM.'''
 
