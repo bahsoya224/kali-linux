@@ -94,3 +94,6 @@ Finally, navigate to Storage settings. Add the downloaded Kali image to a storag
 Install the GRUB boot loader on a hard disk. Select Yes and Continue. Then, select a boot loader device to ensure the newly installed system is bootable.
 Once you receive the message Installation is complete, click Continue to reboot your VM.'''
 
+# DEMO :
+
+# FINAL REVIEW :
