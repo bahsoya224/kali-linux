@@ -101,3 +101,7 @@ Once you receive the message Installation is complete, click Continue to reboot 
 # DEMO :
 
 # FINAL REVIEW :
+
+Kali Linux is definitely a best Linux distro for someone who want to learn and improve their skills in Penetration testing, Metasploit, the most famous tool amoung the security researchers, comes inbuilt with Kali Linux. Other famous and great tools includes wireshark etc. . its easy to use if you have used any of the Linux distro like Ubuntu in your school.
+
+
