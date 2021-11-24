@@ -101,8 +101,8 @@ Once you receive the message Installation is complete, click Continue to reboot 
 # DEMO :
 ## 1. open kali linux terminal
 --->>> update your kali linux using the command :
-apt-get update
-apt-get upgrade
+'''' apt-get update
+'''' apt-get upgrade
 
 --->>>
 
