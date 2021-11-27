@@ -155,8 +155,9 @@ Once you receive the message Installation is complete, click Continue to reboot 
 #sessions -i 1
 
 
-### we used the second method for the demo
+### We used the second method for the demo
 
+https://user-images.githubusercontent.com/90642756/143676387-923a100d-630e-474c-b2d0-cfd163b6a16e.mp4
 
 # FINAL REVIEW :
 
