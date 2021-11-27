@@ -1,22 +1,22 @@
-# KALI LINUX :
+# KALI LINUX 
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
 # REFERENCE  
 https://www.kali.org/docs/installation/hard-disk-install/
 
-# SYNOPSIS:
+# SYNOPSIS
 The purpose of this project is to install kali linux on virtual box machine and use it to practice attacks windows 10 on virtual machine or any PC . this is only for test purpose only and meant to demonstrate potential security flaws.
 What problem does the application solve?
-# USE CASES :
+# USE CASES 
 ---->> Penetration Testing
 
 ---->> Security research
 
 ---->> Computer Forensics and Reverse Engineering
 
-# INSTALLATION :
+# INSTALLATION 
 
-## create kali linux in VM :
+## create kali linux in VM 
 I  opened my VirtualBox
 
 --->>>then go new
