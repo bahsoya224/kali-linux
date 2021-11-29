@@ -1,10 +1,17 @@
+## SOULEYMANE BAH AND FAHIM
+### CSN150
+
+
 # KALI LINUX 
+
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
 # REFERENCE  
 https://www.kali.org/docs/installation/hard-disk-install/
 
 # SYNOPSIS
+
+The purpose of this project is to install kali linux on virtual box machine and use it to practice attacks any server or any PC . this is only for test purpose only and meant to demonstrate potential security flaws.
 What does the program do? 
 
 Kali Linux is mainly used for advanced Penetration Testing and Security Auditing. Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
