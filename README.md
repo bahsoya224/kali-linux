@@ -112,11 +112,12 @@ Once you receive the message Installation is complete, click Continue to reboot 
 ## Open kali linux terminal
 
 --->>> update your kali linux using the command:
+
 ```$ apt-get update```
 ```$ apt-get upgrade```
 
 --->>> log the system to attack tape:
-#msfconsole
+```$ msfconsole```
 
 ## We have two method 
 ### first method
