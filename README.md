@@ -165,5 +165,7 @@ https://user-images.githubusercontent.com/90642756/143676387-923a100d-630e-474c-
 # FINAL REVIEW :
 
 Kali Linux is definitely a best Linux distro for someone who want to learn and improve their skills in Penetration testing, Metasploit, the most famous tool amoung the security researchers, comes inbuilt with Kali Linux. Other famous and great tools includes wireshark etc. . its easy to use if you have used any of the Linux distro like Ubuntu in your school.
+# What we learned about kali linux 
 
+Kali Linux is a security distribution of Linux derived from Debian and specifically designed for computer forensics and advanced penetration testing. Kali Linux has over 600 preinstalled penetration-testing applications to discover. Each program with its unique flexibility and use case.
 
