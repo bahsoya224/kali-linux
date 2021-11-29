@@ -6,6 +6,7 @@ https://www.kali.org/docs/installation/hard-disk-install/
 
 # SYNOPSIS
 What does the program do? 
+
 Kali Linux is mainly used for advanced Penetration Testing and Security Auditing. Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
 
 What problem does the application solve?
