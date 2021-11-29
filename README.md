@@ -150,7 +150,7 @@ Once you receive the message Installation is complete, click Continue to reboot 
 
 --->>> when you are in the console tape
 
-#use windows/misc/hta_server
+'''$ use windows/misc/hta_server'''
 
 #set uripath /name it like (get$5bonus) or (antivirus) etc....
 
